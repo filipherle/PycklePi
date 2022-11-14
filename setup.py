@@ -5,7 +5,7 @@ setup(
     name='PycklePi',
     version='1.1',
     description="PycklePi is a small module for controlling buttons, LED's and more on the Raspberry Pi",
-    url='https://github.com/toxic-ig/PycklePi',
+    url='https://github.com/filipherle/PycklePi',
     author='Filip',
     author_email='toxicnull@gmail.com',
     install_requires=[
